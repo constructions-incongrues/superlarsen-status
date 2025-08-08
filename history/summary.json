@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 785,
-    "timeWeek": 785,
-    "timeMonth": 785,
-    "timeYear": 785,
+    "time": 783,
+    "timeDay": 783,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 657,
-    "timeWeek": 657,
-    "timeMonth": 657,
-    "timeYear": 657,
+    "time": 654,
+    "timeDay": 654,
+    "timeWeek": 654,
+    "timeMonth": 654,
+    "timeYear": 654,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/octopod-superlarsen.interzone.network.ico",
     "slug": "octopod",
     "status": "down",
-    "uptime": "3.02%",
-    "uptimeDay": "3.02%",
-    "uptimeWeek": "3.02%",
-    "uptimeMonth": "3.02%",
-    "uptimeYear": "3.02%",
+    "uptime": "1.21%",
+    "uptimeDay": "1.21%",
+    "uptimeWeek": "1.21%",
+    "uptimeMonth": "1.21%",
+    "uptimeYear": "1.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-08": 0
+      "2025-08-08": 1
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordpress-superlarsen.interzone.network.ico",
     "slug": "wordpress",
     "status": "down",
-    "uptime": "7.15%",
-    "uptimeDay": "7.15%",
-    "uptimeWeek": "7.15%",
-    "uptimeMonth": "7.15%",
-    "uptimeYear": "7.15%",
+    "uptime": "0.45%",
+    "uptimeDay": "0.45%",
+    "uptimeWeek": "0.45%",
+    "uptimeMonth": "0.45%",
+    "uptimeYear": "0.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-08": 0
+      "2025-08-08": 1
     }
   }
 ]
