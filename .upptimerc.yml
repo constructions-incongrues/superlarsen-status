@@ -7,8 +7,8 @@ sites:
     url: https://libretime-superlarsen.interzone.network
   - name: Icecast
     url: https://icecast-superlarsen.interzone.network
-  - name: Octopod
-    url: https://octopod-superlarsen.interzone.network/
+  - name: Castopod
+    url: https://castopod-superlarsen.interzone.network/
   - name: Wordpress
     url: https://wordpress-superlarsen.interzone.network/
 
