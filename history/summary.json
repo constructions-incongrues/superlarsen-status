@@ -28,32 +28,30 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 654,
-    "timeWeek": 654,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "time": 616,
+    "timeDay": 616,
+    "timeWeek": 616,
+    "timeMonth": 616,
+    "timeYear": 616,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Octopod",
-    "url": "https://octopod-superlarsen.interzone.network/",
-    "icon": "https://icons.duckduckgo.com/ip3/octopod-superlarsen.interzone.network.ico",
-    "slug": "octopod",
-    "status": "down",
-    "uptime": "1.21%",
-    "uptimeDay": "1.21%",
-    "uptimeWeek": "1.21%",
-    "uptimeMonth": "1.21%",
-    "uptimeYear": "1.21%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-08-08": 1
-    }
+    "name": "Castopod",
+    "url": "https://castopod-superlarsen.interzone.network/",
+    "icon": "https://icons.duckduckgo.com/ip3/castopod-superlarsen.interzone.network.ico",
+    "slug": "castopod",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 674,
+    "timeDay": 674,
+    "timeWeek": 674,
+    "timeMonth": 674,
+    "timeYear": 674,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wordpress",
@@ -61,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordpress-superlarsen.interzone.network.ico",
     "slug": "wordpress",
     "status": "down",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
+    "uptime": "1.16%",
+    "uptimeDay": "1.16%",
+    "uptimeWeek": "1.16%",
+    "uptimeMonth": "1.16%",
+    "uptimeYear": "1.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-08": 1
+      "2025-08-08": 2
     }
   }
 ]
