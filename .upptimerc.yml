@@ -3,19 +3,19 @@ repo: superlarsen-status # The name of this repository
 
 sites:
   - name: Libretime
-    url: https://libretime-superlarsen.interzone.network
+    url: https://libretime.superlarsen.fr
   - name: Icecast
-    url: https://icecast-superlarsen.interzone.network
+    url: https://icecast.superlarsen.fr
   - name: Castopod
-    url: https://castopod-superlarsen.interzone.network/
+    url: https://castopod.superlarsen.fr/
   - name: Wordpress
-    url: https://wordpress-superlarsen.interzone.network/
+    url: https://wordpress.superlarsen.fr/
 
 assignees:
   - trivoallan
 
 status-website:
-  cname: status-superlarsen.interzone.network
+  cname: status.superlarsen.fr
   name: Superlarsen
 
 # Upptime also supports notifications, assigning issues, and more
