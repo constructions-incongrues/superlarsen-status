@@ -9,7 +9,7 @@ sites:
   - name: Castopod
     url: https://castopod.superlarsen.fr/
   - name: Wordpress
-    url: https://wordpress.superlarsen.fr/
+    url: https://www.superlarsen.fr/
 
 assignees:
   - trivoallan
