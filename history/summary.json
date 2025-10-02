@@ -4,9 +4,9 @@
     "url": "https://libretime.superlarsen.fr",
     "icon": "https://icons.duckduckgo.com/ip3/libretime.superlarsen.fr.ico",
     "slug": "libretime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -16,6 +16,7 @@
     "timeMonth": 795,
     "timeYear": 793,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-08-24": 40,
       "2025-08-23": 60
     }
@@ -62,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.superlarsen.fr.ico",
     "slug": "wordpress",
     "status": "up",
-    "uptime": "72.26%",
+    "uptime": "72.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.26%",
+    "uptimeYear": "72.39%",
     "time": 974,
     "timeDay": 738,
     "timeWeek": 862,
