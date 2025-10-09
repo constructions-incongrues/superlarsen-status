@@ -8,6 +8,8 @@ sites:
     url: https://icecast.superlarsen.fr
   - name: Castopod
     url: https://castopod.superlarsen.fr/
+  - name: Wiki
+    url: https://wiki.superlarsen.fr/
   - name: Wordpress
     url: https://www.superlarsen.fr/
 
