@@ -4,10 +4,10 @@
     "url": "https://libretime.superlarsen.fr",
     "icon": "https://icons.duckduckgo.com/ip3/libretime.superlarsen.fr.ico",
     "slug": "libretime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
     "time": 777,
@@ -16,6 +16,7 @@
     "timeMonth": 736,
     "timeYear": 777,
     "dailyMinutesDown": {
+      "2025-10-24": 2,
       "2025-10-10": 20,
       "2025-08-24": 40,
       "2025-08-23": 60
@@ -26,10 +27,10 @@
     "url": "https://icecast.superlarsen.fr",
     "icon": "https://icons.duckduckgo.com/ip3/icecast.superlarsen.fr.ico",
     "slug": "icecast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 584,
@@ -37,17 +38,19 @@
     "timeWeek": 612,
     "timeMonth": 586,
     "timeYear": 584,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-24": 2
+    }
   },
   {
     "name": "Castopod",
     "url": "https://castopod.superlarsen.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/castopod.superlarsen.fr.ico",
     "slug": "castopod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 721,
@@ -55,17 +58,19 @@
     "timeWeek": 857,
     "timeMonth": 747,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-24": 1
+    }
   },
   {
     "name": "Wiki",
     "url": "https://wiki.superlarsen.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.superlarsen.fr.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 753,
@@ -73,25 +78,28 @@
     "timeWeek": 732,
     "timeMonth": 753,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-24": 1
+    }
   },
   {
     "name": "Wordpress",
     "url": "https://www.superlarsen.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.superlarsen.fr.ico",
     "slug": "wordpress",
-    "status": "up",
-    "uptime": "80.27%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "80.40%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.27%",
+    "uptimeYear": "80.40%",
     "time": 951,
     "timeDay": 906,
     "timeWeek": 935,
     "timeMonth": 901,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2025-10-24": 0,
       "2025-08-23": 1198,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
