@@ -47,9 +47,9 @@
     "url": "https://castopod.superlarsen.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/castopod.superlarsen.fr.ico",
     "slug": "castopod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 694,
     "timeMonth": 790,
     "timeYear": 772,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 0
+    }
   },
   {
     "name": "Wiki",
@@ -84,11 +86,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.superlarsen.fr.ico",
     "slug": "wordpress",
     "status": "up",
-    "uptime": "91.22%",
+    "uptime": "91.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.22%",
+    "uptimeYear": "91.25%",
     "time": 997,
     "timeDay": 1241,
     "timeWeek": 1169,
