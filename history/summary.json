@@ -91,12 +91,12 @@
     "url": "https://www.superlarsen.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.superlarsen.fr.ico",
     "slug": "wordpress",
-    "status": "up",
-    "uptime": "93.74%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "93.75%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.74%",
+    "uptimeYear": "93.75%",
     "time": 1202,
     "timeDay": 1348,
     "timeWeek": 1174,
@@ -124,7 +124,8 @@
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
-      "2026-05-27": 1233
+      "2026-05-27": 1233,
+      "2026-07-08": 0
     }
   }
 ]
