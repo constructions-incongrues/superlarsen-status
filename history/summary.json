@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 788,
-    "timeDay": 824,
-    "timeWeek": 700,
-    "timeMonth": 732,
+    "timeDay": 839,
+    "timeWeek": 725,
+    "timeMonth": 734,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2025-08-23": 60,
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
-    "timeDay": 726,
-    "timeWeek": 582,
-    "timeMonth": 593,
+    "timeDay": 779,
+    "timeWeek": 624,
+    "timeMonth": 599,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2025-10-24": 15
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 799,
-    "timeDay": 956,
-    "timeWeek": 783,
-    "timeMonth": 810,
+    "timeDay": 962,
+    "timeWeek": 820,
+    "timeMonth": 813,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2026-01-27": 42
@@ -79,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 1318,
-    "timeWeek": 1108,
-    "timeMonth": 1139,
-    "timeYear": 854,
+    "time": 855,
+    "timeDay": 1276,
+    "timeWeek": 1133,
+    "timeMonth": 1145,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   },
   {
@@ -92,15 +92,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.superlarsen.fr.ico",
     "slug": "wordpress",
     "status": "down",
-    "uptime": "93.75%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "93.75%",
+    "uptime": "93.65%",
+    "uptimeDay": "64.36%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "93.65%",
     "time": 1202,
-    "timeDay": 1348,
-    "timeWeek": 1174,
-    "timeMonth": 1222,
+    "timeDay": 0,
+    "timeWeek": 1172,
+    "timeMonth": 1229,
     "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-08-23": 1198,
@@ -125,7 +125,8 @@
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1233,
-      "2026-07-08": 0
+      "2026-07-09": 147,
+      "2026-07-08": 366
     }
   }
 ]
